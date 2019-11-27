@@ -1,0 +1,34 @@
+﻿  main.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(71,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(72,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(390,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(474,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(479,47): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(479,47): warning C4244:         with
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(479,47): warning C4244:         [
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(479,47): warning C4244:             T=float
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(479,47): warning C4244:         ]
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(482,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(483,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(807,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(808,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(812,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(813,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(815,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(816,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(825,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(825,28): warning C4244: GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\Xiaomi\source\repos\normal_mapping\normal_mapping\main.cpp(825,28): warning C4244: GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  normal_mapping.vcxproj -> C:\Users\Xiaomi\source\repos\normal_mapping\Debug\normal_mapping.exe
